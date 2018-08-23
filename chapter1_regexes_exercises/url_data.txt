@@ -1,0 +1,7 @@
+https://www.baidu.com::百度
+http://xueshu.baidu.com/::百度学术
+http://www.w3school.com.cn/::W3C school
+http://www.dilidili.wang/::DiliDili 动漫
+https://www.163.com/::网易主页
+https://www.qq.com
+www.baidu.com
